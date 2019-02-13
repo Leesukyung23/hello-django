@@ -1,0 +1,1 @@
+web:gunicorn askacademy.wsgi --log-file-
